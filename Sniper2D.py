@@ -74,22 +74,6 @@ class Rifle:
         print("Scope length "+str(self.scope_length))
         print("Scope height "+str(self.scope_height))
         print("Shooting angle"+str(self.shooting_angle))
-
-'''
-class Bullet:
-    global g
-    def __init__(self,p_x,p_y,v_x,v_y,d):
-        self.position = np.array([p_x, p_y])
-        self.velocity = np.array([v_x,v_y])
-        self.drag = d #drag coefficient
-        self.acceleration = np.array([0,g])-self.drag*self.velocity
-    #2 alternative ways of updating the bullet (using the 2nd order differential equations or using the exact solution)
-    def Update(self,delta_time): #1st way (more general but not exact solution)
-        self.position += self.velocity*delta_time
-        self.velocity += self.acceleration*delta_time
-        self.acceleration =  np.array([0,g])-self.drag*self.velocity
-    def
-    '''
 #Parametric equations for the trajectory of the bullet:
 def GetX(t,v,theta,L1,mu): #mu is the constant drag coefficient (positive)
     if mu > 0: #some air drag
