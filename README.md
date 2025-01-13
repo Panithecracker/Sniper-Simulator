@@ -7,3 +7,7 @@ https://github.com/Panithecracker/Sniper-Simulator/assets/97905110/8eb43e7e-9770
 
 # Future changes:
 After making the program in 2D and testing the fluidity of the animations, I am currently trying to upgrade it to a 3D version, where the field of view will be like a first person shooter, using computer graphics concepts and simulating the scope physics.
+
+![Screenshot 2025-01-13 131420](https://github.com/user-attachments/assets/932e287d-8300-4c89-b8dc-6cc6c4b7a908)
+
+![image](https://github.com/user-attachments/assets/eb2ad105-bea4-4e03-bb41-154db4a77456)
