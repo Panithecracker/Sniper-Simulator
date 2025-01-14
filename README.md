@@ -1,5 +1,6 @@
 # Calculation of optimal angles and reticle adjustments
 Based on our rifle geometry (has several parameters like bipod length, main body width, scope height,etc) we made a program which assumes that the coordinates of a target are given (these can be done nowadays using lasers for example) and then tells you which are the angles that lead to a hit on the center of a target.
+![image](https://github.com/user-attachments/assets/f8d6faf4-0f26-4ad8-b661-d20a8bfce68b)
 
 
 # Interactive demo in 2D:
