@@ -1,4 +1,8 @@
-# Sniper-Simulator
+# Calculation of optimal angles and reticle adjustments
+Based on our rifle geometry (has several parameters like bipod length, main body width, scope height,etc) we made a program which assumes that the coordinates of a target are given (these can be done nowadays using lasers for example) and then tells you which are the angles that lead to a hit on the center of a target.
+
+
+# Interactive demo in 2D:
 This is a game-like interactive simulator in 2D where a sniper rifle laying on a bipod is positioned in the center of the screen and with the keyboard or PS4 controller you can rotate it and shoot at random targets. The bullet flight is affected by gravity, rifle's bullet speed, rifle geometry, shooting angle and potentially wind and air drag.
 
 https://github.com/Panithecracker/Sniper-Simulator/assets/97905110/7b39ac7e-c698-407c-8c6d-288dd954d15f
